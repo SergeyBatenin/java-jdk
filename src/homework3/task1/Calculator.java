@@ -1,4 +1,4 @@
-package homework3.calculator;
+package homework3.task1;
 
 public class Calculator {
     public static <T extends Number, V extends Number> double sum(T firstOperand, V secondOperand) {
